@@ -13,3 +13,6 @@
 
 ### Task description
 
+files .ipynb google collabs 
+
+https://colab.research.google.com/drive/1ez0vplTkubf0jMkXB-7oW36mmV6dKaCy?usp=drive_link
