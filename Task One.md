@@ -1,7 +1,8 @@
 # Task One Goal and Scope
 
-1. Learning how mechanism behind ANN without hidden layer
-2. Learning different layer classification( binary and categorical ) and layer regression.
+1. Learning different model compile with Sequential or without Sequential
+2. Learning how mechanism behind ANN without hidden layer
+3. Learning different layer classification( binary and categorical ) and layer regression.
 
 
 ## Output 
