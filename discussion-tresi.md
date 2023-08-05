@@ -1,6 +1,6 @@
 # Pertanyaan 
-Tresi Aprilia
+Tresi Aprilia, M.Kom
 
 ## Diskusi
 
-Tresi Aprilia
+Pria Juli Ade Malau, M.Kom
