@@ -1,0 +1,2 @@
+# Research-Training
+This repository is used for training and learning neural network and research in machine learning
