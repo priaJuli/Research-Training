@@ -19,6 +19,7 @@ files .ipynb google collabs is below :
 https://colab.research.google.com/drive/1ez0vplTkubf0jMkXB-7oW36mmV6dKaCy?usp=drive_link
 
 2. Second jupyter notebook
+https://colab.research.google.com/drive/1HzAWqoUVLlXFHQMDCl0KRdxXG3BH6DWN?usp=sharing
 
 3. Third Jupyter notebook
 
@@ -27,7 +28,9 @@ https://colab.research.google.com/drive/1ez0vplTkubf0jMkXB-7oW36mmV6dKaCy?usp=dr
 
 1. Scaling int with maxmin scaling without predefined function
 2. Convert any categorical/text into ordinal features without predefined function
-3. Training model from jupyter notebook with data after transformation
-4. Training simplest jupyter notebook for determine how works ann
+3. Training model from jupyter notebook (first) with data after transformation
+4. Training simplest jupyter notebook(second) for determine how works ann
 5. Write report from simplest jupyter notebook about how the ANN works with images ANN (input layer, hidden layer(optional), output layer)
-6. Training model from jupyter notebook with new model with 2 hidden layer ( Dense 6, and Dense 3)
+6. Training model from jupyter notebook(first) with new model with 2 hidden layer ( Dense 6, and Dense 3)
+7. 
+
